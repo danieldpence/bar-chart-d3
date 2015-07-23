@@ -1,0 +1,132 @@
+[
+  {
+    "order_id": 73139029,
+    "customer_name": "Customer A",
+    "ext_customer_id": 247,
+    "start_date": "2/13/2015",
+    "end_date": "12/31/2015",
+    "order_amount": "120,000.00",
+    "amount_delivered": "44,114.73",
+    "percent_delivered": 0.37
+  },
+  {
+    "order_id": 14409824,
+    "customer_name": "Customer B",
+    "ext_customer_id": 14409822,
+    "start_date": "6/25/2014",
+    "end_date": "6/25/2015",
+    "order_amount": "8,000.00",
+    "amount_delivered": 24.21,
+    "percent_delivered": 0
+  },
+  {
+    "order_id": 5817840,
+    "customer_name": "Customer C",
+    "ext_customer_id": 877,
+    "start_date": "2/13/2014",
+    "end_date": "7/31/2015",
+    "order_amount": "100,000.00",
+    "amount_delivered": "50,375.39",
+    "percent_delivered": 0.5
+  },
+  {
+    "order_id": 86179688,
+    "customer_name": "Customer D",
+    "ext_customer_id": 33305965,
+    "start_date": "4/1/2015",
+    "end_date": "12/31/2015",
+    "order_amount": "50,000.00",
+    "amount_delivered": "17,033.01",
+    "percent_delivered": 0.34
+  },
+  {
+    "order_id": 10864579,
+    "customer_name": "Customer E",
+    "ext_customer_id": 1409651,
+    "start_date": "4/30/2014",
+    "end_date": "4/30/2016",
+    "order_amount": "11,000.00",
+    "amount_delivered": "4,062.00",
+    "percent_delivered": 0.37
+  },
+  {
+    "order_id": 43039075,
+    "customer_name": "Customer F",
+    "ext_customer_id": 20741289,
+    "start_date": "10/20/2014",
+    "end_date": "12/31/2015",
+    "order_amount": "200,000.00",
+    "amount_delivered": "80,190.00",
+    "percent_delivered": 0.4
+  },
+  {
+    "order_id": 67692399,
+    "customer_name": "Customer G",
+    "ext_customer_id": 981,
+    "start_date": "1/19/2015",
+    "end_date": "1/15/2017",
+    "order_amount": "6,500.00",
+    "amount_delivered": "1,631.00",
+    "percent_delivered": 0.25
+  },
+  {
+    "order_id": 13351908,
+    "customer_name": "Customer H",
+    "ext_customer_id": 12741987,
+    "start_date": "6/11/2014",
+    "end_date": "6/11/2016",
+    "order_amount": "25,000.00",
+    "amount_delivered": 507.5,
+    "percent_delivered": 0.02
+  },
+  {
+    "order_id": 9432762,
+    "customer_name": "Customer I",
+    "ext_customer_id": 2461723,
+    "start_date": "4/21/2014",
+    "end_date": "4/21/2016",
+    "order_amount": "16,000.00",
+    "amount_delivered": "7,878.00",
+    "percent_delivered": 0.49
+  },
+  {
+    "order_id": 33308987,
+    "customer_name": "Customer J",
+    "ext_customer_id": 265,
+    "start_date": "9/30/2014",
+    "end_date": "1/1/2016",
+    "order_amount": "661,210.00",
+    "amount_delivered": "165,601.80",
+    "percent_delivered": 0.25
+  },
+  {
+    "order_id": 86182321,
+    "customer_name": "CUstomer K",
+    "ext_customer_id": 3396203,
+    "start_date": "4/2/2015",
+    "end_date": "12/31/2015",
+    "order_amount": "250,000.00",
+    "amount_delivered": "11,762.06",
+    "percent_delivered": 0.05
+  },
+  {
+    "order_id": 2712295,
+    "customer_name": "Customer H",
+    "ext_customer_id": 2712294,
+    "start_date": "11/15/2013",
+    "end_date": "11/15/2015",
+    "order_amount": "2,000.00",
+    "amount_delivered": "1,533.00",
+    "percent_delivered": 0.77
+  },
+  {
+    "order_id": 33305366,
+    "customer_name": "Customer I",
+    "ext_customer_id": 18353960,
+    "start_date": "9/29/2014",
+    "end_date": "9/30/2015",
+    "order_amount": "105,000.00",
+    "amount_delivered": "3,376.09",
+    "percent_delivered": 0.03
+  }
+]

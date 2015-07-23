@@ -1,0 +1,32 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.title {
+  font-family: inherit;
+  text-decoration: none;
+}
+div#tooltip {   
+  position: absolute;           
+  text-align: center;                
+  padding: 1.2em;             
+  font-size: 12px;
+  font-family: inherit;
+  color: #fff;        
+  background: #333;   
+  border: 0px;      
+  border-radius: 8px;           
+  pointer-events: none;         
+}
+
+div#tooltip span {
+  display: block;
+}
+
+
+
+.tick {
+  stroke: lightgrey;
+  opacity: 0.8;
+  shape-rendering: crispEdges;
+}
